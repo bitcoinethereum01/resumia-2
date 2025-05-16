@@ -1,0 +1,22 @@
+{
+  "article": "Artículo",
+  "timeline": "Linea de tiempo",
+  "pdf": "PDF",
+  "indexSubtitle": "Índice",
+  "conclusionSubtitle": "Conclusión",
+  "mySummaries": "Mis resumenes",
+  "Share": {
+    "PageTitle": "Resumen Compartido",
+    "ButtonsTitle": "Compartir",
+    "CopiedSuccess": "Enlace copiado correctamente"
+  },
+  "Feedback": {
+    "Title": "Sugerencia",
+    "ModalTitlePOSITIVE": "¿Qué es lo que te gusta del resumen?",
+    "ModalTitleNEGATIVE": "¿Qué es lo que no te gusta del resumen?",
+    "Placeholder": "Escriba aquí sus comentarios",
+    "Send": "Enviar",
+    "Close": "Cerrar",
+    "SignIn": "Iniciar Sesión"
+  }
+}

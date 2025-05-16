@@ -1,0 +1,22 @@
+{
+  "article": "Article",
+  "timeline": "Timeline",
+  "pdf": "PDF",
+  "indexSubtitle": "Index",
+  "conclusionSubtitle": "Conclusion",
+  "mySummaries": "My summaries",
+  "Share": {
+    "PageTitle": "Shared Summary",
+    "ButtonsTitle": "Share",
+    "CopiedSuccess": "Link copied successfully"
+  },
+  "Feedback": {
+    "Title": "Feedback",
+    "ModalTitlePOSITIVE": "What do you like about the summary?",
+    "ModalTitleNEGATIVE": "What don't you like about the summary?",
+    "Placeholder": "Write here your feedback",
+    "Send": "Send",
+    "Close": "Close",
+    "SignIn": "Log in"
+  }
+}

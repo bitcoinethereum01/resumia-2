@@ -1,0 +1,13 @@
+{
+  "ProfilePageTitle": "Mi Perfil",
+  "NameLabel": "Nombre",
+  "UserLabel": "Usuario",
+  "EmailLabel": "Correo",
+  "UpdateLoadingMessage": "Actualizando",
+  "UpdateSuccessMessage": "Datos actualizados existosamente.",
+  "UpdateErrorMessage": "Ha occurrido un error al actualizar sus datos.",
+  "ImageUploadSuccessMessage": "Imagen cargada correctamente",
+  "ImageUploadErrorMessage": "Las dimensiones del archivo no cumplen los requisitos",
+  "ImageUploadSizeWarningMessage": "El tamaño del archivo debe ser inferior a 2 MB",
+  "UpdateSubmit": "Guardar"
+}

@@ -1,0 +1,38 @@
+
+.scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 5px;
+}
+.scrollbar::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.container {
+  position: absolute;
+  left: calc(50% - 25vw);
+  top: calc(50% - 40vh);
+  height: 80%;
+  width: 50%;
+}
+
+@media (max-width:1024px) {
+  .container {
+    top: calc(50% - 40vh);
+    left: calc(50% - 40vw);
+    height: 80%;
+    width: 80%;
+  }
+}
+
+@media (max-width:640px) {
+  .container {
+    left: calc(50% - 45vw);
+    top: calc(50% - 35vh);
+    height: 70%;
+    width: 90%;
+  }
+}

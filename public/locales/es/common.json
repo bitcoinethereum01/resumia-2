@@ -1,0 +1,15 @@
+{
+  "delete": "eliminar",
+  "newSummary": "Nuevo Resumen",
+  "summaryHistory": "Historial de resumenes",
+  "profile": "Perfil",
+  "logout": "Cerrar Sesión",
+  "Information": "Información",
+  "PrivacyPolicy": "Politica de privacidad",
+  "TermsOfUse": "Terminos de uso",
+  "404": {
+    "Title": "Página no encontrada",
+    "PrimaryButton": "Resumir video",
+    "SecondaryButton": "Volver al inicio"
+  }
+}

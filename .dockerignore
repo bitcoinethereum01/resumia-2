@@ -1,0 +1,45 @@
+# Archivo .dockerignore
+
+# Ignorar archivos y directorios de node_modules
+node_modules/
+npm-debug.log
+
+# Ignorar archivos de control de versiones
+.git/
+.gitignore
+
+# Ignorar archivos de configuración de IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Ignorar archivos y directorios relacionados con pruebas
+__tests__/
+coverage/
+*.test.ts
+*.test.tsx
+
+# Ignorar archivos de registro y de depuración
+*.log
+*.pid
+*.seed
+
+# Ignorar archivos y directorios relacionados con la construcción
+dist/
+.next/
+out/
+*.pem
+*.crt
+*.key
+
+# Ignorar archivos y directorios relacionados con el entorno de desarrollo
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignorar otros archivos no necesarios en el contenedor
+README.md
+LICENSE

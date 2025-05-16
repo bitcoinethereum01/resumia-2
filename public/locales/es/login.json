@@ -1,0 +1,33 @@
+{
+  "LoginTitle": "Inicia sesión en tu cuenta",
+  "SignupTitle": "Crea tu cuenta",
+  "SignIn": "Iniciar sesión",
+  "SignInSwitcherMessage": "¿Ya tienes una cuenta?",
+  "SignUp": "Registrarse",
+  "SignUpSwitcherMessage": "¿Todavía no tienes una cuenta?",
+  "GithubButton": "Iniciar sesión con Github",
+  "GooogleButton": "Iniciar sesión con Google",
+  "EmailLabel": "Correo electrónico",
+  "EmailPlaceholder": "Tu correo electrónico aquí...",
+  "PasswordLabel": "Contraseña",
+  "PasswordPlaceholder": "tu contraseña aquí...",
+  "NameLabel": "Nombre",
+  "NamePlaceholder": "nombre",
+  "UsernameLabel": "Nombre de usuario",
+  "UsernamePlaceholder": "nombre de usuario",
+  "createEmailLabel": "Correo electrónico",
+  "createEmailPlaceholder": "correo electrónico",
+  "createPasswordLabel": "Contraseña",
+  "createPasswordPlaceholder": "contraseña",
+  "ConfirmPasswordLabel": "Confirmar contraseña",
+  "ConfirmPasswordPlaceholder": "confirmar tu contraseña",
+  "create": "Crear",
+  "PromoTitle": "Optimiza tu tiempo de estudio con resúmenes automáticos",
+  "PromoBody": "¡Bienvenido a ResumIA! Una plataforma web impulsada por inteligencia artificial que te permite generar resúmenes textuales a partir de contenido audiovisual para mejorar tu proceso de estudio universitario. ¡Ahorra tiempo y aumenta tu eficiencia con ResumIA!",
+  "PrivacyPolicy": "Politica de privacidad",
+  "LoginErrors": {
+    "Default":"Ha ocurrido un error. Intentelo más tarde o comuniquese con soporte",
+    "CredentialsSignin": "Sus credenciales son incorrectos",
+    "OAuthAccountNotLinked": "Su correo ya se ha vinculado con otro servicio. Por favor pruebe otra alternativa"
+  }
+}

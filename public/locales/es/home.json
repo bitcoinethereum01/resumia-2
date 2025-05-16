@@ -1,0 +1,17 @@
+{
+  "YoutubePlaceholder": "URL de un video de Youtube",
+  "LoadingSummaryMessage": "Generando resumen",
+  "SubmitVideo": "Generar resumen",
+  "CleanData": "Limpiar datos",
+  "DropFileMessage": "Haz clic aquí o arrastra y suelta tu archivo para comenzar",
+  "DropFileWarning_1": "Para enlaces de YouTube duración de 5 a 30 minutos",
+  "DropFileWarning_2": "Para archivos (mp3, mp4 y wav), tamaño máximo de 25mb",
+  "YoutubeValidLinkMessage": "Por favor ingrese un enlace valido",
+  "YoutubeLinkEmptyValidation": "Por favor ingrese el enlace o archivo directo",
+  "FileSizeValidationMessage":"El tamaño máximo permitido para los archivos es de 25mb",
+  "LoadedSourceSuccessMessage": "Archivo cargado correctamente",
+  "DurationWarningMessage": "El archivo no cumple con los requerimientos, duración:",
+  "Hour":"hora",
+  "Minute":"minuto",
+  "Second": "segundo"
+}

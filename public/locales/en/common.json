@@ -1,0 +1,15 @@
+{
+  "delete": "delete",
+  "newSummary": "New Summary",
+  "summaryHistory": "Summary History",
+  "profile": "Profile",
+  "logout": "Logout",
+  "Information": "Information",
+  "PrivacyPolicy": "Privacy Policy",
+  "TermsOfUse": "Term of use",
+  "404": {
+    "Title": "Page not found",
+    "PrimaryButton": "Summarize video",
+    "SecondaryButton": "Go to home"
+  }
+}

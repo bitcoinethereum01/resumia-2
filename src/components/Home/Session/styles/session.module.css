@@ -1,0 +1,61 @@
+.inner {
+  position: relative;
+  transition: transform 0.7s ease-in-out;
+  transform-style: preserve-3d;
+  
+}
+
+.front, .back {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.back {
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flipped {
+  transform: rotateY(180deg);
+}
+
+.height550 {
+  height: 550px;
+  transition: all 1s;
+}
+
+/* @layer utilities {
+  .height-700 {
+    height: 700px;
+    transition: all 1s;
+  }
+} */
+.height700 {
+  height: 700px;
+  transition: all 1s;
+}
+.height625 {
+  height: 625px;
+  transition: all 1s;
+}
+
+.session_container {
+  @apply w-full flex  rounded-lg shadow border md:mt-0 max-w-md xl:p-0 bg-myblack-400 border-myblack-500
+}
+
+.session_container__content {
+  @apply w-full flex flex-col justify-around p-6 sm:px-8 sm:py-4
+}
+
+.session_button {
+  @apply w-full text-white focus:outline-none font-medium rounded-sm text-sm px-5 py-2.5 text-center bg-red-400 enabled:hover:bg-red-500 focus:ring-0 disabled:opacity-50
+}
+
+.session_p {
+  @apply text-xl font-bold leading-tight tracking-tight md:text-2xl text-white text-center 
+}
